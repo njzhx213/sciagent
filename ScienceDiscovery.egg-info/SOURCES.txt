@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.py
+ScienceDiscovery/__init__.py
+ScienceDiscovery/agents.py
+ScienceDiscovery/graph.py
+ScienceDiscovery/llm_config.py
+ScienceDiscovery/utils.py
+ScienceDiscovery.egg-info/PKG-INFO
+ScienceDiscovery.egg-info/SOURCES.txt
+ScienceDiscovery.egg-info/dependency_links.txt
+ScienceDiscovery.egg-info/requires.txt
+ScienceDiscovery.egg-info/top_level.txt
